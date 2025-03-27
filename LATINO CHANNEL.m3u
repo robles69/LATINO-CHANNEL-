@@ -6,6 +6,9 @@ http://143.244.60.30/NICKELODEON/index.m3u8
  
 #EXTINF:-1, Nickelodeon Channel
 http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1, Cartoon Network Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/1021726
  
 #EXTINF:-1, Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -87,6 +90,9 @@ http://185.189.225.150:85/neox/index.m3u8
  
 #EXTINF:-1, Nova España
 http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1, Univision NY
+http://vipyxyzapi.xyz:8080/VIP01940172337324593/846d85193313/5011
  
 #EXTINF:-1, Telemundo North East 
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
@@ -129,7 +135,22 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
  
 #EXTINF:-1, Globo
 http://conexao-vs.live/GLOBO/index.m3u8
- 
+
+#EXTINF:-1, Globo 
+http://golprxlab.it.com:80/luizcarlosb/sqjg94zd/110952 
+
+#EXTINF:-1, Globo  Inter 
+http://golprxlab.it.com:80/clientestv1/XG596706/97379
+
+#EXTINF:-1, Globo Inter  Pt 
+http://golprxlab.it.com:80/clientestv1/XG596706/97378
+
+#EXTINF:-1, SBT Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/469488
+
+#EXTINF: -, Viva Brasil
+http://golprxlab.it.com:80/clientestv1/XG596706/97295
+  
 #EXTINF:-1, Sony Channel Novelas
 https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
  
@@ -144,18 +165,36 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
  
 #EXTINF:-1, Star Channel Central America
 http://170.254.18.106/STAR/index.m3u8
- 
+
+#EXTINF:-1, HBO Latino 
+http://vipyxyzapi.xyz:8080/VIP01940172337324593/846d85193313/4774
+
+#EXTINF:-1, HBO  Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/11566 
+  
 #EXTINF:-1, HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
  
 #EXTINF:-1, HBO 2 
 http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1, HBO 2 Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/6110 
  
 #EXTINF:-1, HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1, HBO Xtreme Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/61210
  
 #EXTINF:-1, HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1, HBO Plus Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/13190 
+
+#EXTINF:-1, HBO Max Brasil 
+http://golprxlab.it.com:80/luizcarlosb/sqjg94zd/608181
  
 #EXTINF:-1, HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
@@ -198,6 +237,12 @@ http://185.189.225.150:85/BOM/index.m3u8
  
 #EXTINF:-1, Next Channel
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1, TNT Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/1094432
+
+#EXTINF:-1, Warner Channel Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/61228
  
 #EXTINF:-1, Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -234,6 +279,18 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
  
 #EXTINF:-1, National Geographic Wild
 http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
+
+#EXTINF:-1, Discovery Channel Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/97172
+
+#EXTINF:-1, History Channel Latino 
+http://vipyxyzapi.xyz:8080/VIP01940172337324593/846d85193313/4778
+
+#EXTINF:-1, History Channel Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/97243
+
+#EXTINF:-1, History Channel 2 Brasil 
+http://golprxlab.it.com:80/clientestv1/XG596706/608194
  
 #EXTINF:-1, Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
