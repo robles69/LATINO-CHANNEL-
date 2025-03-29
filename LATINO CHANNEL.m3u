@@ -5,9 +5,6 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1, Nickelodeon Channel
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1, Cartoon Network Brasil 
-http://golprxlab.it.com:80/clientestv1/XG596706/1021726
- 
 #EXTINF:-1, Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
  
@@ -55,6 +52,9 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
  
 #EXTINF:-1, 8NTV México 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1, Super Canal 12 México
+https://servilive.com:3263/live/channel12live.m3u8
  
 #EXTINF:-1, Antena 3 España
 http://185.189.225.150:85/Antena3HD/index.m3u8
@@ -79,6 +79,9 @@ http://185.189.225.150:85/8madrid/index.m3u8
  
 #EXTINF:-1, La Sexta España
 http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1, Mega España 
+http://185.189.225.150:85/mega/index.m3u8
  
 #EXTINF:-1, Neox España 
 http://185.189.225.150:85/neox/index.m3u8
@@ -121,12 +124,18 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
  
 #EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
- 
-#EXTINF:-1, El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
- 
+
 #EXTINF:-1, Chile TV 
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1, El Trece 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1, Telecolor TV 
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1, Hechicera TV 
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
  
 #EXTINF:-1, Venevición Internacional 
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
@@ -142,10 +151,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
  
 #EXTINF:-1, Star Channel Central America 
 https://streamer1.nexgen.bz/STAR/index.m3u8
- 
-#EXTINF:-1, Star Channel Central America
-http://170.254.18.106/STAR/index.m3u8
- 
+  
 #EXTINF:-1, Hallmark Channel Español 
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
  
@@ -200,6 +206,9 @@ https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist
 #EXTINF:-1, INPO TV
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 
+#EXTINF:-1, Microvisión 10
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
 #EXTINF:-1, Filmex (Xumo)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
  
@@ -211,6 +220,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
 #EXTINF:-1, RT En Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1, Oxígeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
  
 #EXTINF:-1, Naturaleza Salvaje 
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
@@ -223,6 +235,12 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
  
 #EXTINF:-1, Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1,National Geographic Wild 
+https://tv.arectv13.sbs/live/natgeowild.m3u8
  
 #EXTINF:-1, CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
